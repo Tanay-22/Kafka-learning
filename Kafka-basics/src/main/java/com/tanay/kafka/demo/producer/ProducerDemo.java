@@ -1,4 +1,4 @@
-package com.tanay.kafka.demo;
+package com.tanay.kafka.demo.producer;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
